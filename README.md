@@ -5,4 +5,4 @@ I have completed all assignments.But in assignment3,I just only completed PyTorc
 
 I don't use Jupyter in all assignments.
 
-Any Questions please email  to 931558722@qq.com.
+Any Questions please email  to michael-hong@foxmail.com.
