@@ -1,5 +1,5 @@
 # cs231n-assignments
-These are all assignments of Standford University cs231n course in Spring 2017.
+These are all assignments of Standford University cs231n course set up in Spring 2017.
 I have completed all assignments.But in assignment3,I just only completed PyTorch practices without TensorFlow.
 
 
